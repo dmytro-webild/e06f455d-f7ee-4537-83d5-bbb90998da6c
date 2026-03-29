@@ -11,8 +11,8 @@ import { DM_Sans } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'EverBloom Boutique | Premium Artificial Flowers & Decor',
-  description: 'Elevate your space with EverBloom\'s curated collection of ultra-realistic artificial flowers and elegant drapes. Timeless beauty, maintenance-free.',
+  title: 'MGLUX Event Design & Flowers Boutique | Premium Artificial Flowers & Accessories',
+  description: 'Elevate your space with curated collection of ultra-realistic artificial flowers and elegant drapes. Timeless beauty, maintenance-free. Have a big event like wedding, bridal shower, birthday or proposal? Sit back and relax. We have complete packages to make your event unforgettable. 's curated collection of ultra-realistic artificial flowers and elegant drapes. Timeless beauty, maintenance-free.',
   openGraph: {
     "title": "EverBloom | Faux Floral Elegance",
     "description": "Discover high-end realistic silk arrangements.",
